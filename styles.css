@@ -1,0 +1,19 @@
+.page {
+    background-color: rgb(245, 244, 242);
+    color: rgb(9, 9, 8);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: none;
+    text-align: center;
+    width: 50%; /* or any desired width */
+    margin: 0 auto;
+    line-height: 2.0;
+    
+    
+}
+h1{
+    font-size: 300%;
+}
+.page.active {
+    display: block;
+}
